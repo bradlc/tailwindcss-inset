@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-inset",
+  "version": "1.0.0",
+  "description": "top, right, bottom, and left utilities for Tailwind CSS",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "tailwindcss",
+    "tailwind"
+  ],
+  "author": "Brad Cornes <bradlc41@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradlc/tailwindcss-inset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradlc/tailwindcss-inset/issues"
+  },
+  "homepage": "https://github.com/bradlc/tailwindcss-inset#readme"
+}
